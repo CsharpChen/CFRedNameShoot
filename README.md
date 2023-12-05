@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HGADSARPM91T6E3E0H6YZQQB
-  version: v2.0
----
-
 # CFRedNameShoot
 
 ## 一个简单的穿越火线判断红名  然后自动开枪的WinForm 程序
